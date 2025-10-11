@@ -8,7 +8,7 @@ export default function MainSection() {
         <div className="mb-16 sm:mb-32">
           <div className="text-sm mb-4">(HELLO, I'M Harry Liu)</div>
           <h1 className="text-4xl sm:text-6xl md:text-8xl font-bold mb-6 sm:mb-8">
-            Product Manager | <span className="font-serif italic font-normal">Data Products</span>
+            Product Manager | <span className="font-serif italic font-normal">Data<br />Products</span>
             <br className="hidden sm:block" />
           </h1>
           <div className="flex flex-col sm:flex-row justify-between items-start gap-6 sm:gap-0">
